@@ -1,0 +1,57 @@
+<html>
+	<head>
+		<title> DRAAAAAAKE </title>
+		<style type="text/css">
+			body{
+				Background-image: url('c.jpg');
+				Background-size: fit;
+				Background-repeat: norepeat;
+				background-color: #e2a7f4;
+				margin-left: 20%;
+				margin-right: 20%;
+				border: 1px dotted gray;
+				padding: 10px 10px 10px 10px;
+				font-family: sans-serif;
+			}
+	img:hover{
+	transform: scale(1.13);
+	}
+		img{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	width: 600px;
+	height: auto;
+	}
+		</style>
+	</head>
+	<style>
+	h1 {text-align:center;}
+		h2 {text-align:center;}
+		p {text-align:center;}
+		
+		</style>
+		
+		<body> 
+		<div style="position:top;left:410px;">
+		<marquee style="font-size:15pt;"scrollamount="12" direction="right"
+		behavior="alternate"><b style="color: white"> THE NEXT MAN TO BE ON FORTNITE?!?!</b></marquee>
+		</div> 
+
+		<h1 style="color: white"> THE MOST INFLUENTIAL AFRICAN CANADIAN</h1>
+		<h2 style="color: white"> THE NEXT KING OF HIP HOP?!</h2>
+		<p style="color: white"> DRAAAKE, the best singer OF ALL TIME, SICKO MODE.</p>
+		<p> <img src=" Slide1.jpg"> </p>	
+
+		
+		<audio controls autoplay>
+  			<source src="Y2mate.is - Travis Scott - SICKO MODE ft. Drake-6ONRf7h3Mdk-64k-1645018741869.ogg" type="audio/ogg">
+			<source src="Y2mate.is - Travis Scott - SICKO MODE ft. Drake-6ONRf7h3Mdk-64k-1645018741869.mp3" type="audio/mpeg">
+	
+		</audio>
+	
+		
+		<p> <a href="https://dazedimg-dazedgroup.netdna-ssl.com/463/azure/dazed-prod/1300/0/1300889.jpeg"> THE LEGEND</a>
+		<P> <a href="https://www.youtube.com/watch?v=6T6OEMxZ7pc"> ok this is the real link now</a>
+	</body>
+</html>
